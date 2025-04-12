@@ -40,7 +40,9 @@ floatval — Get the float value of a variable (doubleval is another possibility
 get_defined_vars — Returns an array of all defined variables
 get_resource_type — Returns the resource type
 gettype — Retrieves the variable type
+
 import_request_variables — Import GET/POST/Cookie variables into the global scope
+
 intval — Find the integer value of a variable
 is_array — Checks whether a variable is an array
 is_bool — Finds out if a variable is a boolean
@@ -66,7 +68,9 @@ var_dump — Dumps information about a variable
 var_export — Outputs or returns a string representation of a variable that can be parsed
 Defining Constants
 define(name, value, case_sensitive_true_false);
+
 Default PHP Constants
+
 LINE — Denotes the number of the current line in a file
 FILE — Is the full path and filename of the file
 DIR — The directory of the file
